@@ -1,7 +1,7 @@
-version: 0.43.2
+version: 0.43.3
 files:
-  - url: HapTune_Studio_Setup_v0.43.2.exe
-    sha512: /uoU3iebM1GVvIGYaxzFStwUm46/jP9Dc4Fv4ZFch9Z7AQmy+fLnDZcHXreCrbGqP2GwNISVi0YUxWZCLHFjQA==
-path: HapTune_Studio_Setup_v0.43.2.exe
-sha512: /uoU3iebM1GVvIGYaxzFStwUm46/jP9Dc4Fv4ZFch9Z7AQmy+fLnDZcHXreCrbGqP2GwNISVi0YUxWZCLHFjQA==
-releaseDate: '2026-11-17T00:21:51.231Z'
+  - url: HapTune_Studio_Setup_v0.43.3.exe
+    sha512: M4fzFLJUa86U8i6869yu9+5Du68HzFH1rDLckqWVlofyk6cbpMzeDRK7A73smTECWowQV0EGbeAWr45UzvyHYg==
+path: HapTune_Studio_Setup_v0.43.3.exe
+sha512: M4fzFLJUa86U8i6869yu9+5Du68HzFH1rDLckqWVlofyk6cbpMzeDRK7A73smTECWowQV0EGbeAWr45UzvyHYg==
+releaseDate: '2026-11-18T06:34:53.070Z'
